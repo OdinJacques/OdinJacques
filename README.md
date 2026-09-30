@@ -16,7 +16,6 @@
 My name is Jacques (OdinJacques on GitHub). I'm building my career as a QA engineer and SDET. I have a range of skills, which I'll explain later. I've worked on these projects of my own, using AI to assist with some of them. I use Claude to verify code and check for things that might be overlooked, such as tests to automate or add to the list of tasks.
 I continue to work every day to keep learning and become a better QA engineer.
 
-*(Update this paragraph with your own words whenever you're ready — think of it as a starting draft.)*
 
 ## Projects
 
